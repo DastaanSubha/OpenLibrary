@@ -14,7 +14,7 @@ Library Management Application
 ## How to start the application
 ```
 $ git clone https://github.com/DastaanSubha/OpenLibrary.git
-$ cd LibraryManagement
+$ cd OpenLibrary
 $ cd backend
 $ gradlew bootrun
 $ open localhost:8080 in web browser
